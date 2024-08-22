@@ -2,7 +2,7 @@
 
 A digital version of the classic Simon memory game, built with HTML, CSS, JavaScript, and jQuery.
 
-![Simon Game Screenshot](screenshot.png)
+![Simon Game Screenshot](./images/Simon.png)
 
 ## Description
 
