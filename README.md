@@ -38,7 +38,7 @@ This project is a web-based implementation of the popular Simon memory game. Pla
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome.
 
 ## License
 
